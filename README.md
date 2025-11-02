@@ -1,6 +1,6 @@
   # 👋 嗨，我是 @kuankqaq
 
-  一个专注于 Python 脚本和开源工具的小小贡献者。我很喜欢Vibe Coding，所以见到ai生成的痕迹就不要跟我说了，欢迎大家对我的项目进行pr和issue
+  一个专注于 Python 脚本和开源工具的小小贡献者。我喜欢Vibe Coding，欢迎大家对我的项目进行pr和issue
 
   <p>
     <a href="https://github.com/kuankqaq">
