@@ -35,13 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuankqaq&layout=compact&theme=dark&hide_title=true&locale=cn" alt="kuankqaq 的常用语言" />
 
 </div>
-
----
-
-## 🤝 保持联系
-
-如果您有任何问题、建议，或只是想打个招呼，请随时通过以下方式联系我：
-
-* **邮箱**：619676549@qq.com
-
-> **“代码是用来解决问题的，而开源是让世界变得更美好的方式。”**
