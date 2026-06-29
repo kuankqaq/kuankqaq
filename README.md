@@ -1,6 +1,3 @@
-  # 👋 嗨，我是 @kuankqaq
-
-  一个专注于 Python 脚本和开源工具的小小贡献者。我喜欢Vibe Coding，欢迎大家对我的项目进行pr和issue
 
   <p>
     <a href="https://github.com/kuankqaq">
@@ -11,22 +8,6 @@
     </a>
   </p>
 
----
-
-</div>
-
-## 🛠️ 我的技术栈
-
-| 类别 | 技术/语言 |
-| :--- | :--- |
-| **主要语言** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> |
-| **Web 相关** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> |
-| **工具与框架** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> |
-| **感兴趣的领域** | 聊天机器人/自动化脚本 |
-
----
-
-## 📈 我的 GitHub 统计数据
 
 <div align="center">
 
