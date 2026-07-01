@@ -8,10 +8,8 @@
     </a>
   </p>
 
-
+[![My GitFut card](https://gitfut.com/kuankqaq.png)](https://gitfut.com/kuankqaq)
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kuankqaq&show_icons=true&theme=dark&hide_title=true&locale=cn" alt="kuankqaq 的 GitHub 统计数据" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuankqaq&layout=compact&theme=dark&hide_title=true&locale=cn" alt="kuankqaq 的常用语言" />
 
